@@ -1,0 +1,2 @@
+insert into client(name, cpf, email, telefone) values ('Bruno', '111.111.111-00', 'aui@gmail.com', 1198909876);
+insert into empresa(cnpj, razao_social, nome_fantasia) values ('122.222.222-24', 'Casa Nova', 'Vendas Tudo');
